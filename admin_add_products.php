@@ -111,7 +111,6 @@ if (isset($_POST['name'])) {
 									$result= $conn->query($sql2);
 
 									if($result){
-
 										while($row = $result->fetch_array()){
 											echo "<option value='".$row['cat_id']."'>".$row['cat_name']."</option>";
 										}
