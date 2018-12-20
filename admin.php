@@ -21,7 +21,6 @@ if(isset($_SESSION['user_id']) && $_SESSION['user_type']!=='admin'){
 					  <a href="admin_categories.php" class="list-group-item ">Категории</a>
 					  <a href="admin_manufacture.php" class="list-group-item">Районы</a>
 					  <a href="admin_orders.php" class="list-group-item">Ордера</a>
-
 					</div>
 				</div>
 				<div class="col-sm-8">
