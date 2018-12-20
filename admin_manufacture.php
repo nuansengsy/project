@@ -39,7 +39,6 @@ if(isset($_GET['Mid'])){
 	}
 }
 
-
 ?>
 
 <?php require_once('header.php'); ?>
