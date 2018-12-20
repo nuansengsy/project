@@ -132,3 +132,5 @@ $user_id = $_SESSION['user_id'];
 
 
 <?php require_once('footer.php'); ?>
+
+
