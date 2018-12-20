@@ -76,3 +76,5 @@ if (isset($_POST['total'])) {
 
 
 <?php require_once('header.php'); ?>
+
+
