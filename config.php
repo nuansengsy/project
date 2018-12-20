@@ -22,3 +22,5 @@ function upload_location(){
 	global $upload_dir;
 	return $upload_dir;
 }
+
+
