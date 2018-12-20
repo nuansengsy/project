@@ -41,3 +41,4 @@ function getCart($user_id){
 		return "0";
 	}
 }
+
